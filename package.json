@@ -5,9 +5,9 @@
   "main": "index.js",
   "author": "Ronak <ronakpandeyofficial@gmail.com>",
   "private": true,
-  "homepage": "https://github.com/ronak83s/Splendorbot",
-  "repository": "github:ronak83s/Splendorbot",
-  "bugs": "https://github.com/ronak83s/Splendorbot/issues",
+  "homepage": "https://github.com/ronak83s/Splendor-bot",
+  "repository": "github:ronak83s/Splendor-bot",
+  "bugs": "https://github.com/ronak83s/Splendor-bot/issues",
   "engines": {
     "node": ">=12.0.0"
   },

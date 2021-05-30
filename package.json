@@ -1,0 +1,37 @@
+{
+  "name": "splendorbot",
+  "version": "0.9.0",
+  "description": "Discord music bot built with discord.js",
+  "main": "index.js",
+  "author": "Ronak <ronakpandeyofficial@gmail.com>",
+  "private": true,
+  "homepage": "https://github.com/ronak83s/Splendorbot",
+  "repository": "github:ronak83s/Splendorbot",
+  "bugs": "https://github.com/ronak83s/Splendorbot/issues",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "array-move": "^3.0.1",
+    "db.js": "^0.15.0",
+    "discord-ytdl-core": "^5.0.2",
+    "discord.js": "^12.5.3",
+    "erit-ytdl": "^0.1.3",
+    "ffmpeg-static": "^4.3.0",
+    "lyrics-finder": "^21.7.0",
+    "node-spotify-api": "^1.1.1",
+    "quickmongo": "^3.0.2",
+    "simple-youtube-api": "^5.2.1",
+    "soundcloud-downloader": "^1.0.0",
+    "spotify-uri": "^2.2.0",
+    "spotify-url-info": "^2.2.0",
+    "string-progressbar": "^1.0.3",
+    "youtube-sr": "^1.0.4",
+    "ytdl-core": "^4.8.2",
+    "ytsr": "^3.4.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

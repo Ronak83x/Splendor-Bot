@@ -46,7 +46,7 @@ return a + b
       .setTitle(`${message.client.user.username} Stats`)
       .addFields(
         { name: `${EMOJI_SERVERS} Servers:`, value: `\`\`\`${servers_count}\`\`\``, inline: true },
-        { name: `${EMOJI_USERS} Users:`, value: `\`\`\`${236734}\`\`\``, inline: true },//        { name: `${EMOJI_USERS} Users:`, value: `\`\`\`${sum}\`\`\``, inline: true },
+        { name: `${EMOJI_USERS} Users:`, value: `\`\`\`${sum}\`\`\``, inline: true },
         { name: `${EMOJI_UPTIME} Uptime:`, value: uptime },
         { name: `${EMOJI_RAM} RAM USAGE:`, value: `\`\`\`${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)} MB\`\`\`` },
 

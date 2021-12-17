@@ -171,7 +171,6 @@ module.exports = {
       }
     } else {
       try {
-        //get the result
          songInfo = await youtubesr.searchOne(search) ;
          song = {
            title: songInfo.title,

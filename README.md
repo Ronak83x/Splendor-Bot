@@ -14,4 +14,4 @@ It stays 24/7 in VC and also has reaction control and many more !
 
 
 # SplendorMusicBot
-[MIT Licence](LICENSE)
+[MIT License](LICENSE)

@@ -13,5 +13,5 @@ And many more you can change !
 It stays 24/7 in VC and also has reaction control and many more !
 
 
-# LICENSE
+# License
 [MIT License](LICENSE)
